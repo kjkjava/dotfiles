@@ -30,4 +30,5 @@
 " Highlight long lines
 :set colorcolumn=81
 :highlight ColorColumn ctermbg=darkblue ctermfg=white
+:set ruler
 
